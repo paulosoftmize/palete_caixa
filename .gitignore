@@ -2,6 +2,8 @@
 *.csv
 *.xlsx
 *.xls
+*.pdf
+*.pptx
 __pycache__/
 *.py[oc]
 build/
@@ -11,3 +13,4 @@ wheels/
 
 # Virtual environments
 .venv
+
