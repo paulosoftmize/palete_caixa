@@ -10,6 +10,8 @@ build/
 dist/
 wheels/
 *.egg-info
+gurobi.log
+*.env
 
 # Virtual environments
 .venv
