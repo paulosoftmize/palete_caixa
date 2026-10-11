@@ -12,6 +12,7 @@ wheels/
 *.egg-info
 gurobi.log
 *.env
+solucoes_salvas
 
 # Virtual environments
 .venv
