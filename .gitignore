@@ -13,6 +13,8 @@ wheels/
 gurobi.log
 *.env
 solucoes_salvas
+cli-palete-caixa-aws.txt
+*.txt
 
 # Virtual environments
 .venv
